@@ -1,0 +1,16 @@
+# ninja log v6
+44	128	7626408253381717	CMakeFiles/main.out.dir/src/no_grafo.cpp.obj	d0e13b71c3c1c478
+48	125	7626408253421756	CMakeFiles/main.out.dir/src/aresta_grafo.cpp.obj	587239f7bb52d48a
+10	401	7626456846648042	CMakeFiles/main.out.dir/src/grafo_lista.cpp.obj	7bac0a6a56afd3a2
+15	542	7626456846708086	CMakeFiles/main.out.dir/src/grafo.cpp.obj	69d2fb884399ebe4
+13	492	7626456846678064	CMakeFiles/main.out.dir/src/grafo_matriz.cpp.obj	ec2a3ff742e3cdc5
+6	551	7626456846618007	CMakeFiles/main.out.dir/main.cpp.obj	ed665285c643c2bd
+551	652	7626456852062959	main.out.exe	d6813baf54b5a61f
+2	472	7626468549690304	build.ninja	3e8abb2675f13c6d
+28	98	7626469598671662	CMakeFiles/main.out.dir/src/aresta_grafo.cpp.obj	587239f7bb52d48a
+25	99	7626469598641637	CMakeFiles/main.out.dir/src/no_grafo.cpp.obj	d0e13b71c3c1c478
+14	455	7626469598531537	CMakeFiles/main.out.dir/src/grafo_lista.cpp.obj	7bac0a6a56afd3a2
+17	551	7626469598571573	CMakeFiles/main.out.dir/src/grafo_matriz.cpp.obj	ec2a3ff742e3cdc5
+21	604	7626469598601605	CMakeFiles/main.out.dir/src/grafo.cpp.obj	69d2fb884399ebe4
+9	613	7626469598481490	CMakeFiles/main.out.dir/main.cpp.obj	ed665285c643c2bd
+613	702	7626469604515324	main.out.exe	d6813baf54b5a61f

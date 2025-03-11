@@ -1,0 +1,3 @@
+F:/trabalho-de-grafos/trabalho-de-grafos/cmake-build-debug/CMakeFiles/main.out.dir
+F:/trabalho-de-grafos/trabalho-de-grafos/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/trabalho-de-grafos/trabalho-de-grafos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

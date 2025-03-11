@@ -1,0 +1,3 @@
+/home/pedro/Documentos/Grafos/trabalho-de-grafos-v2/trabalho-de-grafos(2chamada)/CMakeFiles/main.out.dir
+/home/pedro/Documentos/Grafos/trabalho-de-grafos-v2/trabalho-de-grafos(2chamada)/CMakeFiles/edit_cache.dir
+/home/pedro/Documentos/Grafos/trabalho-de-grafos-v2/trabalho-de-grafos(2chamada)/CMakeFiles/rebuild_cache.dir
