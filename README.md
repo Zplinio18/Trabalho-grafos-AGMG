@@ -1,4 +1,4 @@
-# Trabalho de Teoria dos Grafos
+# Segunda Chamada de Teoria dos Grafos
 
 ## Nome
 
@@ -60,12 +60,12 @@ A avaliação do trabalho será realizada com base no relatório (`R`), na avali
 ```
 ```bash
 #executa para estrutura de matriz
- ./main.out -p -m ../entradas/grafo.txt 
+ time ./main.out -p -m ../entradas/grafo.txt 
 ```
 
 ```bash
 #executa para estrutura de lista
- ./main.out -p -l ../entradas/grafo.txt 
+ time ./main.out -p -l ../entradas/grafo.txt 
 ```
 
 ##
